@@ -10,7 +10,7 @@ import VisaStatus from "../models/VisaStatus";
 import RegistrationToken from "../models/RegistrationToken";
 import HRManagement from "../models/HRManagement";
 
-const numEmployee = 15;
+const numEmployee = 20;
 
 // Connect to MongoDB
 mongoose
